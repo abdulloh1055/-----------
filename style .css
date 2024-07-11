@@ -1,0 +1,52 @@
+body{
+    line-height: none;
+    background-color: chocolate;
+     font-style: italic;
+    text-align: center;
+    color: blue;
+}
+
+input{
+    border: 1px solid rgb(7, 38, 123);
+    border-radius: 5px;
+    background-color: rgb(10, 249, 58);
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+button{
+    border: 1px solid rgb(7, 15, 129);
+    border-radius: 5px;
+    background-color: rgb(10, 249, 58);
+    color: chocolate;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 13px;
+}
+
+.qator{
+    color: rgb(255, 255, 255);
+}
+
+.box{
+    color: saddlebrown;
+}
+
+form{
+
+    font-style: italic;
+    color:whitesmoke;
+    font-weight: bold;
+    font-size: 1em;
+
+}
+
+img{
+    width: 23%;
+    border-radius: 19px;
+ 
+}
+
